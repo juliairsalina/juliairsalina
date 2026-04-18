@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm juls ✨</h1>
+<h1 align="center">hi, i'm julia !</h1>
 
 <p align="center">
   i'm a data science student at korea university.
