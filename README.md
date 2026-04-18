@@ -27,7 +27,7 @@ most of my projects live somewhere between technical and creative — from hiera
 
 other than that, i'm currently exploring cloud services like Azure and AWS, and lately i've also been getting more interested in agentic AI.
 
-outside of tech, i love playing roblox (not very well, but i genuinely enjoy games), reading japanese-translated books, and watching movies.
+outside of tech, i love playing roblox (not very good at it, but i genuinely enjoy games), reading japanese-translated books, and watching movies.
 
 ## 💻 featured projects
 
