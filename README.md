@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm julia !</h1>
 
 <p align="center">
-  i'm a data science undergraduate student at korea university, interested in ai, data, cloud, and building things that turn ideas into working prototypes.
+  i'm a data science undergraduate student at korea university.
 </p>
 
 <p align="center">
