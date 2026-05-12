@@ -1,11 +1,11 @@
 <h1 align="center">hi, i'm julia !</h1>
 
 <p align="center">
-  i'm a data science student at korea university.
+  i'm a data science undergraduate student at korea university, interested in ai, data, cloud, and building things that turn ideas into working prototypes.
 </p>
 
 <p align="center">
-  i like building projects around machine learning, deep learning, data, ui/ux, and weird ideas that somehow turn into working prototypes :D
+  i like working on projects around machine learning, deep learning, data-driven systems, ui/ux, and agentic ai.
 </p>
 
 <p align="center">
@@ -22,24 +22,47 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Foundry-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
 ## 🌷 about me
-most of my projects live somewhere between technical and creative — from hierarchical text classification and crowd density estimation to interactive platforms and design-heavy coursework.
 
-other than that, i'm currently exploring cloud services like Azure and AWS, and lately i've also been getting more interested in agentic AI.
+i love doing ml/ai-related research and development, and most of my projects involve building, improving, or experimenting with machine learning models.
 
-outside of tech, i love playing roblox (not very good at it, but i genuinely enjoy games), reading japanese-translated books, and watching movies.
+other than that, i enjoy learning things by myself based on my interests. since i also love designing, i started learning frontend tools to build more interactive and visually polished projects.
+
+recently, i've been exploring azure services, cloud technologies, llm-based applications, and agentic ai workflows.
+
+outside of tech, i love playing roblox, reading japanese-translated books, and watching movies.
 
 ## 💻 featured projects
 
-- interactive yearbook platform
-- hierarchical multi-label text classification
-- crowd density estimation with CSRNet-CBAM
-- stress detection with dual-branch VAE-LSTM
+- **yapping study buddy**  
+  an agentic ai learning platform using azure openai, microsoft foundry, azure speech services, fastapi, and a 3-agent workflow for flashcard generation, spoken answer evaluation, and adaptive feedback.
+
+- **hierarchical product classification**  
+  a machine learning project using bert-based text embeddings and graph attention networks for large-scale hierarchical product classification.
+
+- **crowd density estimation with csrnet-cbam**  
+  a deep learning project for estimating crowd density using convolutional neural networks and attention-based improvements.
+
+- **stress detection with dual-branch vae-lstm**  
+  a physiological signal classification project using vae-lstm and attention mechanisms for stress detection.
+
+- **interactive yearbook platform**  
+  a creative web-based platform combining frontend development, interaction design, and user-centered ui/ux.
 
 ## 🫧 toolkit
 
-`Python` `R` `SQL` `PyTorch` `Pandas` `NumPy` `AWS SageMaker` `Azure` `CSS` `HTML` `JavaScript` `Foundry` 
+`Python` `R` `SQL` `PyTorch` `Pandas` `NumPy` `FastAPI`  
+`AWS SageMaker` `Azure` `Azure OpenAI` `Microsoft Foundry`  
+`HTML` `CSS` `JavaScript` `UI/UX` `Agentic AI`
 
 ## 🌙 little note
 
+if you’re working on data or ai projects and would like to collaborate, i’d love to connect on linkedin.
 thanks for visiting my profile ♡
