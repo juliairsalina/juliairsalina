@@ -56,12 +56,6 @@ outside of tech, i love playing roblox, reading japanese-translated books, and w
 - **interactive yearbook platform**  
   a creative web-based platform combining frontend development, interaction design, and user-centered ui/ux.
 
-## 🫧 toolkit
-
-`Python` `R` `SQL` `PyTorch` `Pandas` `NumPy` `FastAPI`  
-`AWS SageMaker` `Azure` `Azure OpenAI` `Microsoft Foundry`  
-`HTML` `CSS` `JavaScript` `UI/UX` `Agentic AI`
-
 ## 🌙 little note
 
 if you’re working on data or ai projects and would like to collaborate, i’d love to connect on linkedin.
