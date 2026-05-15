@@ -31,9 +31,9 @@
 
 ## 🌷 about me
 
-i love doing ml/ai-related research and development, and most of my projects involve building, improving, or experimenting with machine learning models.
+i love working on ml/ai-related research and development, and most of my projects involve building, improving, or experimenting with machine learning models.
 
-other than that, i enjoy learning things by myself based on my interests. since i also love designing, i started learning frontend tools to build more interactive and visually polished projects.
+i also enjoy learning independently and exploring new tools based on my interests. since i like design too, i started learning frontend development to build projects that feel more interactive and visually polished.
 
 recently, i've been exploring azure services, cloud technologies, llm-based applications, and agentic ai workflows.
 
@@ -48,15 +48,15 @@ outside of tech, i love playing roblox, reading japanese-translated books, and w
   a machine learning project using bert-based text embeddings and graph attention networks for large-scale hierarchical product classification.
 
 - **crowd density estimation with csrnet-cbam**  
-  a deep learning project for estimating crowd density using convolutional neural networks and attention-based improvements.
+  a deep learning project for crowd density estimation using convolutional neural networks and attention-based improvements.
 
 - **stress detection with dual-branch vae-lstm**  
-  a physiological signal classification project using vae-lstm and attention mechanisms for stress detection.
+  a physiological signal learning project using vae-lstm and attention mechanisms for stress detection.
 
 - **interactive yearbook platform**  
   a creative web-based platform combining frontend development, interaction design, and user-centered ui/ux.
 
 ## 🌙 little note
 
-if you’re working on data or ai projects and would like to collaborate, i’d love to connect on linkedin.
+if you're working on data or ai projects and would like to connect, feel free to reach out on linkedin.  
 thanks for visiting my profile ♡
