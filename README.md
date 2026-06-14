@@ -1,15 +1,11 @@
-<h1 align="center">Hi, I'm Julia</h1>
+<h1 align="center">Hi, i'm julia </h1>
 
 <p align="center">
-  Data Science student at Korea University.
+  Data Science student at Korea University, curious about AI, data, and building useful things.
 </p>
 
 <p align="center">
-  Interested in machine learning, natural language processing, AI systems, and building technology that solves real-world problems.
-</p>
-
-<p align="center">
-  Currently exploring LLM applications, agentic AI workflows, cloud technologies, and data-driven product development.
+  I enjoy machine learning, LLM-powered applications, agentic AI workflows, and turning ideas into practical prototypes.
 </p>
 
 <p align="center">
@@ -43,56 +39,42 @@
 
 ## About Me
 
-I'm a final-year Data Science student at Korea University who enjoys building AI systems, experimenting with new technologies, and turning ideas into practical applications.
+I'm a final-year Data Science student who enjoys learning by building.
 
-My interests span machine learning, natural language processing, deep learning, data analytics, and AI-powered products. Most of my projects involve designing, training, or evaluating machine learning models, although I've recently been spending more time exploring LLM applications, agentic AI systems, and cloud-based AI development.
+Most of my projects are around machine learning, NLP, deep learning, data analytics, and AI-powered applications. Recently, I’ve been exploring LLM applications, agentic AI workflows, Azure AI services, and cloud-based development.
 
-I also enjoy frontend development and UI/UX design, which is why many of my projects focus not only on model performance but also on creating experiences that are intuitive and enjoyable to use.
+I also care about the product side of technology: making projects not only work, but feel useful and intuitive.
 
 ---
 
 ## Featured Projects
 
-### Yapping Study Buddy
-
-An AI-powered study companion that transforms learning materials into flashcards, spoken-answer exercises, and adaptive study workflows using Azure OpenAI, Azure Speech Services, FastAPI, and a multi-agent architecture.
-
-### Risky Intent Disambiguation
-
-Research project focused on improving robustness in mental-health-related text classification through counterfactual augmentation, experience replay, and NLI-based methods.
-
-### Hierarchical Product Classification
-
-Large-scale hierarchical multi-label classification system using BERT embeddings and Graph Attention Networks for a 531-class product taxonomy.
-
-### Crowd Density Estimation with CSRNet-CBAM
-
-Deep learning project that improves crowd counting performance through attention-enhanced density estimation.
-
-### Stress Detection with Dual-Branch VAE-LSTM
-
-Multimodal physiological signal analysis using ECG and EDA data for stress detection through deep learning and attention mechanisms.
+- Yapping Study Buddy — agentic AI study companion
+- Risky Intent Disambiguation — NLP robustness research
+- Hierarchical Product Classification — weakly supervised NLP and graph learning
+- Crowd Density Estimation with CSRNet-CBAM — computer vision
+- Stress Detection with Dual-Branch VAE-LSTM — physiological signal analysis
 
 ---
 
 ## Currently Exploring
 
 - Agentic AI and multi-agent systems
-- Large Language Models (LLMs)
+- LLM-powered applications
 - Azure AI and cloud technologies
 - Applied machine learning research
-- AI-powered educational tools
+- AI-powered learning tools
 
 ---
 
-## Beyond Technology
+## Outside Tech
 
-Outside of tech, I enjoy reading, watching movies, exploring new ideas, and occasionally spending far too much time on Roblox.
+Reading japanese-translated books, movies, side project ideas, and sometimes play Roblox.
 
 ---
 
 ## Connect
 
-If you're interested in AI, machine learning, data science, or building interesting things, feel free to connect with me on LinkedIn.
+Feel free to connect if you're interested in AI, machine learning, data science, or building useful things.
 
-Thanks for visiting my profile.
+Thanks for visiting my profile ♡
