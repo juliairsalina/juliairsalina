@@ -1,11 +1,11 @@
-<h1 align="center">Hi, i'm julia </h1>
+<h1 align="center">hi, i'm julia !</h1>
 
 <p align="center">
-  Data Science student at Korea University, curious about AI, data, and building useful things.
+  i'm a data science undergraduate student at korea university.
 </p>
 
 <p align="center">
-  I enjoy machine learning, LLM-powered applications, agentic AI workflows, and turning ideas into practical prototypes.
+  i like working on projects around machine learning, deep learning, data-driven systems, ui/ux, and agentic ai.
 </p>
 
 <p align="center">
@@ -35,46 +35,34 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
+## 🌷 about me
 
-## About Me
+i love working on ml/ai-related research and development, and most of my projects involve building, improving, or experimenting with machine learning models.
 
-I'm a final-year Data Science student who enjoys learning by building.
+i also enjoy learning independently and exploring new tools based on my interests. since i like design too, i started learning frontend development to build projects that feel more interactive and visually polished.
 
-Most of my projects are around machine learning, NLP, deep learning, data analytics, and AI-powered applications. Recently, I’ve been exploring LLM applications, agentic AI workflows, Azure AI services, and cloud-based development.
+recently, i've been exploring azure services, cloud technologies, llm-based applications, and agentic ai workflows.
 
-I also care about the product side of technology: making projects not only work, but feel useful and intuitive.
+outside of tech, i love playing roblox, reading japanese-translated books, and watching movies.
 
----
+## 💻 featured projects
 
-## Featured Projects
+- **yapping study buddy**  
+  an agentic ai learning platform using azure openai, microsoft foundry, azure speech services, fastapi, and a 3-agent workflow for flashcard generation, spoken answer evaluation, and adaptive feedback.
 
-- Yapping Study Buddy — agentic AI study companion
-- Risky Intent Disambiguation — NLP robustness research
-- Hierarchical Product Classification — weakly supervised NLP and graph learning
-- Crowd Density Estimation with CSRNet-CBAM — computer vision
-- Stress Detection with Dual-Branch VAE-LSTM — physiological signal analysis
+- **hierarchical product classification**  
+  a machine learning project using bert-based text embeddings and graph attention networks for large-scale hierarchical product classification.
 
----
+- **crowd density estimation with csrnet-cbam**  
+  a deep learning project for crowd density estimation using convolutional neural networks and attention-based improvements.
 
-## Currently Exploring
+- **stress detection with dual-branch vae-lstm**  
+  a physiological signal learning project using vae-lstm and attention mechanisms for stress detection.
 
-- Agentic AI and multi-agent systems
-- LLM-powered applications
-- Azure AI and cloud technologies
-- Applied machine learning research
-- AI-powered learning tools
+- **interactive yearbook platform**  
+  a creative web-based platform combining frontend development, interaction design, and user-centered ui/ux.
 
----
+## 🌙 little note
 
-## Outside Tech
-
-Reading japanese-translated books, movies, side project ideas, and sometimes play Roblox.
-
----
-
-## Connect
-
-Feel free to connect if you're interested in AI, machine learning, data science, or building useful things.
-
-Thanks for visiting my profile ♡
+if you're working on data or ai projects and would like to connect, feel free to reach out on linkedin.  
+thanks for visiting my profile ♡
